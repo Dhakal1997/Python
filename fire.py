@@ -1,0 +1,3 @@
+#print fire
+print("fier")
+
